@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"272c48b7-bcb7-4d14-b6c6-ea5880a080e1","feature":"Search Functionality of orangeHRM","scenario":"Search the valid item","start":1717664910914,"group":1,"content":"","tags":"","end":1717664910926,"className":"failed"},{"id":"0c75faf8-0b3b-4c6e-a126-5ef93a6f700c","feature":"Search Functionality of orangeHRM","scenario":"Search the invalid value","start":1717664910883,"group":1,"content":"","tags":"","end":1717664910901,"className":"failed"},{"id":"c1c1be2d-efbe-402f-a7b8-cf014da7e331","feature":"Search Functionality of orangeHRM","scenario":"Search with null value","start":1717664910620,"group":1,"content":"","tags":"","end":1717664910860,"className":"failed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[main,5,main]"}]);
+});
